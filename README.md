@@ -23,12 +23,6 @@ Developed by: Sowmiya N
 RegisterNumber:  212221230106
 ```
 ```
-import matplotlib.pyplot as plt 
-x=[5,6,3,2,6,7,1,2]
-y=[2,3,6,5,8,3,5,8]
-plt.scatter(x,y); 
-plt.plot(x,y) 
-plt.show() 
 
 # LEAST SQUARE METHOD
 import numpy as np
